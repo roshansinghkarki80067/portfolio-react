@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/roshansinghkarki80067/portfolio-react/issues"
   },
-  "homepage": "https://github.com/roshansinghkarki80067/portfolio-react#readme"
+  "homepage": "https://github.com/roshansinghkarki80067/portfolio-react#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
